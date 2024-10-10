@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/dk_prof.png"
+  avatar           : ""
   name             : "Neuroscientist"
   pronouns         : # example: "she/her"  
   bio              : "American-Swiss"
