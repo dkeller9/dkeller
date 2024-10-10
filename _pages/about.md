@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Daniel Keller heads the Molecular Systems team at the Blue Brain Project."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,6 @@ redirect_from:
 
 This
 
-A data-driven personal website
-======
-Like 
+
 
 
