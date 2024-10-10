@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+scientis# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/dk_prof.png"
-  name             : "Your Sidebar Name"
+  name             : "Neuroscientist"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "American-Swiss"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
